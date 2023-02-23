@@ -1,8 +1,11 @@
 ### Hi there 👋😃
 
-My name is Minhui Zheng 
+My name is Minhui Zheng, and I live in Beijing, China. 
 
 - 💼 I'm a Front-end developer @smartnews
+- 🌱 I write daily life and technical articles on www.zhengminhui.com
+- 💞️ I’m looking for a on-site/remote/hybrid job 
+- 📫 You can reach me via zhmh1025@hotmail.com
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhengminhui&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
 
